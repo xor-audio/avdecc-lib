@@ -1,5 +1,8 @@
 .DS_Store
 
+build/
+include/
+
 # Ignore Doxygen sub directories 
 html/
 latex/
